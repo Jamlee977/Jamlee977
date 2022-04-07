@@ -4,7 +4,7 @@
 
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jamlee977&layout=compact" />
 
-## Languages in real life
+##  Languages in real life
 * English
 * Arabic
 
